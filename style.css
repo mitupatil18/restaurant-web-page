@@ -1,0 +1,84 @@
+.logo{
+    max-width: 150px;
+    user-zoom:zoom;
+    margin-left: 40px;
+}
+html{
+    scroll-behavior: smooth;
+    background-color:rgba(155, 155, 155, 0.395);
+}
+#tagline{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    font-weight: 200;
+    margin-top: -500px;
+    margin-left: 300px;
+}
+.heading{
+    background-image: url(https://images.unsplash.com/photo-1606787366850-de6330128bfc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80);
+    box-shadow: 1px 2px gray;
+    margin-top: -20px;
+}
+.home-img{
+    max-width: 900px;
+    margin-top: 5px
+}
+.offer{
+    margin-top: -500px;
+    font-size: 25px;
+    margin-left: 950px;
+    margin-right: 350px;
+    border-spacing: 5px;
+    border-radius: 3px;
+    box-shadow: 3px 3px rgb(219, 189, 18);
+    background-color: rgb(4, 159, 4);
+}
+.quote{
+    font-size: 80px;
+    font-style:italic;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-left: 950px;
+}
+.des{
+    margin-left: 950px;
+}
+.explore{
+    margin-left: 950px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgba(226, 226, 30, 0.715);
+    border-radius: 10px;
+    border-color: rgba(193, 193, 27, 0.715);
+    font-size: 20px;
+    transition: 0.5s;
+}
+.explore:hover{
+    overscroll-behavior-x:contain;
+    transform: translateY(-10px);
+    box-shadow: 2px 3px rgb(223, 151, 27);
+}
+.menu{
+    margin-top: 200px
+}
+#_menu_{
+
+    margin-left: 650px;
+    font-size: 50px;
+    background-color: rgb(7, 125, 7);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 3px rgb(223, 151, 27);
+}
+.expl{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 650px;
+}
+.food{
+    padding-left: 30px;
+    display:inline-flexbox;
+    position:relative;
+    border-spacing: 10px;
+}
