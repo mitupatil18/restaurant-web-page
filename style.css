@@ -53,6 +53,7 @@ html{
     border-color: rgba(193, 193, 27, 0.715);
     font-size: 20px;
     transition: 0.5s;
+    text-decoration:none;
 }
 .explore:hover{
     overscroll-behavior-x:contain;
